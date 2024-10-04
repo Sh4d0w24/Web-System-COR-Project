@@ -1,0 +1,163 @@
+body{
+    margin: 60px;
+}
+
+.front{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    img{
+        float: left;
+        margin-left: 50px;
+        padding-left: 50px;
+    }
+    p{
+        margin-bottom: 0px;
+    }
+    h2{
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    p{
+        margin-top: 0px;
+    }
+}
+
+.name{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    h2{
+        text-align: center;
+        letter-spacing: 10px;
+    }
+}
+
+.student-info {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    table, th, td {
+    border: 1px solid #333;
+    }
+    .first{
+        text-align: center;
+        background-color: #cc96ff;
+    }
+}
+
+.subs{
+    background-color: #cc96ff;
+    .code{
+        padding-left: 30px;
+    }
+    .subject{
+        padding-left: 70px;
+    }
+    .unit{
+        padding-left: 70px;
+        text-align: center;
+        letter-spacing: 10px;
+        .unit_sub{
+            width: 200px;
+            .lec{
+                letter-spacing: 0px;
+            }
+            .lab{
+                padding-left: 20px;
+                letter-spacing: 0px;
+            }
+            .credit{
+                padding-left: 20px;
+                letter-spacing: 0px;
+            }
+        }
+    }
+    .section{
+        padding-left: 60px;
+    }
+    .sched{
+        padding-left: 90px;
+    }
+    .faculty{
+        padding-left: 130px;
+    }
+}
+
+#reg .number{
+    color: red;
+}
+
+
+#first .code{
+    padding-left: 10px;
+}
+
+#first .title{
+    padding-left: 40px;
+}
+
+#first .lec{
+    padding-left: 60px;
+}
+
+#first .lab{
+    padding-left: 40px;
+}
+
+#first .credit{
+    padding-left: 50px;
+}
+
+#first .section{
+    padding-left: 85px;
+}
+
+#first .schedule{
+    padding-left: 80px;
+}
+
+#first .faculty{
+    padding-left: 90px;
+}
+
+#first > .schedule2{
+    padding-left: 750px;
+}
+
+
+#second .code{
+    padding-left: 10px;
+}
+
+#second .title{
+    padding-left: 5px;
+}
+
+#second .lec{
+    padding-left: 40px;
+}
+
+#second .lab{
+    padding-left: 40px;
+}
+
+#second .credit{
+    padding-left: 50px;
+}
+
+#second .section{
+    padding-left: 85px;
+}
+
+#second .schedule{
+    padding-left: 80px;
+}
+
+#second .faculty{
+    padding-left: 90px;
+}
+
+#second > .schedule2{
+    padding-left: 750px;
+}
