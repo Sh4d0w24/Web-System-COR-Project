@@ -135,7 +135,7 @@ body{
 }
 
 #second .lec{
-    padding-left: 40px;
+    padding-left: 22px;
 }
 
 #second .lab{
@@ -151,13 +151,90 @@ body{
 }
 
 #second .schedule{
-    padding-left: 80px;
+    padding-left: 78px;
 }
 
 #second .faculty{
-    padding-left: 90px;
+    padding-left: 80px;
 }
 
 #second > .schedule2{
     padding-left: 750px;
 }
+
+
+#third .code{
+    padding-left: 10px;
+}
+
+#third .title{
+    padding-left: 25px;
+}
+
+#third .lec{
+    padding-left: 53px;
+}
+
+#third .lab{
+    padding-left: 40px;
+}
+
+#third .credit{
+    padding-left: 50px;
+}
+
+#third .section{
+    padding-left: 85px;
+}
+
+#third .schedule{
+    padding-left: 78px;
+}
+
+#third .faculty{
+    padding-left: 80px;
+}
+
+#third > .schedule2{
+    padding-left: 750px;
+}
+
+
+#lines > .line1{
+    padding-left: 350px;
+}
+
+#lines > .line2{
+    padding-left: 10px;
+}
+
+#lines > .line3{
+    padding-left: 15px;
+}
+
+
+#total > .total_unit{
+    padding-left: 250px;
+}
+
+#total > .total_lec{
+    padding-left: 20px;
+}
+
+#total > .total_lab{
+    padding-left: 40px;
+}
+
+#total > .total_credit{
+    padding-left: 50px;
+}
+
+#note{
+    margin-top: 15px;
+}
+
+#note > span{
+    padding-left: 10px;
+}
+
+
