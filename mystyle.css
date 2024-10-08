@@ -231,6 +231,7 @@ body{
 
 #note{
     margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 #note > span{
@@ -238,3 +239,65 @@ body{
 }
 
 
+#content .amount{
+    float: right;
+    width: 100px;
+    text-align: right;
+    padding-right: 15px;
+}
+
+#content .assess_name{
+    padding-left: 15px;
+}
+
+
+
+#total_assess .total{
+    padding-left: 170px;
+}
+
+#total_assess .php{
+    padding-left: 70px;
+}
+#total_assess .total_amount{
+    float: right;
+    width: 100px;
+    text-align: right;
+    padding-right: 15px;
+}
+
+
+#total_payment .total{
+    padding-left: 160px;
+}
+
+#total_payment .php{
+    padding-left: 70px;
+}
+#total_payment .total_amount{
+    float: right;
+    width: 100px;
+    text-align: right;
+    padding-right: 15px;
+}
+
+
+#total_out .total{
+    padding-left: 120px;
+}
+
+#total_out .php{
+    padding-left: 70px;
+}
+#total_out .total_amount{
+    float: right;
+    width: 100px;
+    text-align: right;
+    padding-right: 15px;
+}
+
+
+#rules{
+    float: right;
+    padding-right: 100px;
+}
